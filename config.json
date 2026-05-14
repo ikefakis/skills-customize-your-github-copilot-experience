@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "debug-quest-testing-and-bug-fixes",
+      "title": "Debug Quest: Testing and Bug Fixes",
+      "description": "Write tests, hunt bugs, and improve a mini arcade engine in Python.",
+      "path": "assignments/debug-quest-testing-and-bug-fixes",
+      "dueDate": "2026-05-21",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
