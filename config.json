@@ -58,6 +58,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "rest-apis-fastapi",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Learn to build production-ready REST APIs using FastAPI. Create CRUD endpoints for managing a book collection with validation, error handling, and filtering.",
+      "path": "assignments/rest-apis-fastapi",
+      "dueDate": "2026-05-21",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
